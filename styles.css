@@ -5,6 +5,14 @@ Paso 1. Crear y enlazar un archivo CSS */
 
 
 /* Estilo para el título principal */
+.Imagen-Centro {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 150px;
+}
+
 #Titulo-Principal {
     color: #2c3e50;
     font-family: 'Arial', sans-serif;
